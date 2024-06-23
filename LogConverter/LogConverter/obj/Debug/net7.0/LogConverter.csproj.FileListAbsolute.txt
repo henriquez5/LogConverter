@@ -1,0 +1,14 @@
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\bin\Debug\net7.0\LogConverter.exe
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\bin\Debug\net7.0\LogConverter.deps.json
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\bin\Debug\net7.0\LogConverter.runtimeconfig.json
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\bin\Debug\net7.0\LogConverter.dll
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\bin\Debug\net7.0\LogConverter.pdb
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\obj\Debug\net7.0\LogConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\obj\Debug\net7.0\LogConverter.AssemblyInfoInputs.cache
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\obj\Debug\net7.0\LogConverter.AssemblyInfo.cs
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\obj\Debug\net7.0\LogConverter.csproj.CoreCompileInputs.cache
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\obj\Debug\net7.0\LogConverter.dll
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\obj\Debug\net7.0\refint\LogConverter.dll
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\obj\Debug\net7.0\LogConverter.pdb
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\obj\Debug\net7.0\LogConverter.genruntimeconfig.cache
+C:\Users\henri\DOTNET\Henrique\LogConverter\LogConverter\obj\Debug\net7.0\ref\LogConverter.dll
